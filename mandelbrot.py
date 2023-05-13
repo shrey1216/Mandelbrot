@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 
 # The mandelbrot function takes in a value for n, N_max, and threshold.
-# The function will compute the Mandelbrot fractal using a Mandelbrot iteration on each point
+# The function will compute the Mandelbrot fractal using a Mandelbrot iteration on each point.
 def mandelbrot(n, N_max, threshold):
     # x = np.linspace(-2, 1, n)
     # y = np.linspace(-1.5, 1.5, n)
